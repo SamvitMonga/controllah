@@ -1,2 +1,2 @@
 # controllah
-BLCD Motor Controller
+BLDC Motor Controller
